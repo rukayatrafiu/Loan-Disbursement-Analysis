@@ -18,7 +18,7 @@ The analysis and reporting were conducted using ***Microsoft Power BI***.
 
 ## Data Visualization
 
-![]()
+![](https://github.com/rukayatrafiu/Loan-Disbursement-Analysis/blob/main/Loan%20Disbursement%20Report.jpg)
 
 ## Insights
 
